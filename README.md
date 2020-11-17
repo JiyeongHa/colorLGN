@@ -4,7 +4,7 @@ This repository includes figures and analyzing codes for the LGN project data (*
 *Find the abstract below the figures.*
 
 ![ROIdef](https://github.com/JiyeongHa/colorLGN/blob/master/LGN_eccentricity_mapping.png)  
-Fig 1. defining the LGN ROI and eccentricity mapping in the LGN
+Fig 1. Defining the LGN ROI and eccentricity mapping in the LGN
 
 ![Experimental design](https://github.com/JiyeongHa/colorLGN/blob/master/LGN_experimental_design.png)  
 Fig 2. Color space, experimental design, and behavioral data
